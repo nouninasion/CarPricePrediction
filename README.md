@@ -1,4 +1,4 @@
-# Car Price Prediction
+#  Car Price Prediction
 
 This repository contains a Jupyter Notebook (`CarPricePrediction .ipynb`) that focuses on predicting car prices based on a variety of features. The project involves comprehensive data cleaning, preprocessing, feature engineering, and training several machine learning models.
 
